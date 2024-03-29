@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactTPD/static/css/main.cb0b7e07.css",
+    "main.js": "/ReactTPD/static/js/main.3d2f1d24.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ReactTPD/static/js/787.28cb0dcd.chunk.js",
+    "static/media/javascript-logo-big.png": "/ReactTPD/static/media/javascript-logo-big.e087754771abd3526937.png",
+    "static/media/5968350.png": "/ReactTPD/static/media/5968350.6a5cbc319ab3ddf8ef92.png",
+    "static/media/4736380.png": "/ReactTPD/static/media/4736380.49090fb6837224eb1334.png",
+    "static/media/6132222.png": "/ReactTPD/static/media/6132222.24a8f93854ab092f17a7.png",
+    "static/media/919830.png": "/ReactTPD/static/media/919830.c67d24b47808dc6611ed.png",
+    "index.html": "/ReactTPD/index.html",
+    "main.cb0b7e07.css.map": "/ReactTPD/static/css/main.cb0b7e07.css.map",
+    "main.3d2f1d24.js.map": "/ReactTPD/static/js/main.3d2f1d24.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ReactTPD/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb0b7e07.css",
+    "static/js/main.3d2f1d24.js"
+  ]
+}
